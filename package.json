@@ -1,0 +1,33 @@
+{
+  "name": "element-theme-jdcloud",
+  "version": "0.0.2",
+  "description": "Element component jdcloud theme",
+  "main": "lib/index.css",
+  "style": "lib/index.css",
+  "files": [
+    "lib",
+    "src"
+  ],
+  "scripts": {
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heylight/element-theme-jdcloud.git"
+  },
+  "keywords": [
+    "element",
+    "theme",
+    "jdcloud"
+  ],
+  "author": "zhuhailiang4",
+  "license": "MIT",
+  "homepage": "https://github.com/heylight/element-theme-jdcloud.git#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-sass": "^4.1.0"
+  },
+  "dependencies": {}
+}
