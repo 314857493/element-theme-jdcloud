@@ -1,18 +1,13 @@
 # element-theme-jdcloud
 
-> 京东智联云定制主题
+京东智联云定制主题
+based on element-ui ~2.14.1
 
 ## Installation
 
-执行下面命令
-
 ```shell
 npm i element-theme-jdcloud
-```
-
-或者
-
-```shell
+// or
 yarn add element-theme-jdcloud
 ```
 
