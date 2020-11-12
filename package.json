@@ -1,6 +1,6 @@
 {
   "name": "element-theme-jdcloud",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Element component jdcloud theme",
   "main": "lib/index.css",
   "style": "lib/index.css",
