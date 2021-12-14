@@ -978,6 +978,13 @@ $--calendar-border: $--table-border !default;
 $--calendar-selected-background-color: #f2f8fe !default;
 $--calendar-cell-width: 85px !default;
 
+/* Descriptions
+-------------------------- */
+$--descriptions-header-margin-bottom: 20px !default;
+$--descriptions-title-font-size: 16px !default;
+$--descriptions-table-border: 1px solid $--border-color-lighter !default;
+$--descriptions-item-bordered-label-background: #fafafa !default;
+
 /* Form
 -------------------------- */
 /// fontSize||Font|1
